@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burak-Cosar
 
-- 🌱 I’m currently doing MSc in Software Engineering 
+- 🌱 MSc in Software Engineering (Current) 
 - 📫 csr.burak@gmail.com
 
 - 👨🏻‍💻 Java, SQL, HTML, CSS
