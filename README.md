@@ -3,4 +3,4 @@
 - 🌱 MSc in Software Engineering (Current) 
 - 📫 csr.burak@gmail.com
 
-- 👨🏻‍💻 Java, Pyhton, SQL, HTML, CSS
+- 👨🏻‍💻 Java, Python, SQL, HTML, CSS
