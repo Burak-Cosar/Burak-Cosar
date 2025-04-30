@@ -4,4 +4,4 @@
 
 - 🌱 MSc Software Engineering Graduate
   
-- 📫 csr.burak@gmail.com
+- 📫 contact@burakcosar.com
