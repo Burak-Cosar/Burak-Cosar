@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Burak-Cosar
 
-- 🌱 MSc in Software Engineering (Current) 
-- 📫 csr.burak@gmail.com
+- 🚀 AdTech Professional
 
-- 👨🏻‍💻 Java, Python, SQL, HTML, CSS
+- 🌱 MSc Software Engineering Graduate
+  
+- 📫 csr.burak@gmail.com
